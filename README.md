@@ -6,7 +6,7 @@
 - 📫 Email me at arijeetsocial@gmail.com
 
 Technologies Worked With:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,redux,nextjs,tailwind,figma,prisma,mongodb,mysql,postgres,vercel)](https://arijeet-sarkar.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,redux,nextjs,tailwind,figma,prisma,mongodb,mysql,postgres,vercel,svelte,jest,githubactions)](https://arijeet-sarkar.vercel.app/)
 
 <!---
 Arijeet10/Arijeet10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
